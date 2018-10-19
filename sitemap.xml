@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://shikezhang.com/</loc>
+  <lastmod>2018-10-19T09:10:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://shikezhang.com/source/cv.pdf</loc>
+  <lastmod>2018-10-19T09:10:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shikezhang.com/source/ICPADS.pdf</loc>
+  <lastmod>2018-10-19T09:10:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shikezhang.com/source/SE_report.pdf</loc>
+  <lastmod>2018-10-19T09:10:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shikezhang.com/source/MCM_A_81749.pdf</loc>
+  <lastmod>2018-10-19T09:10:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
