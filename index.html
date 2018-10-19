@@ -370,25 +370,5 @@
 </table>
  </body>
 
-  <script language =javascript >
-    var curIndex=0;
-    var timeInterval=10000;
-    var arr=new Array();
-    arr[0]="";
-    arr[1]="";
-    setInterval(changeMePic,timeInterval);
-    function changeMePic()
-    {
-        if (curIndex==arr.length-1)
-        {
-            curIndex=0;
-            me.className = "solid";
-        }
-        else
-        {
-            curIndex+=1;
-            me.className = "transparent";
-        }
-    }
-  </script>
+
 </html>
